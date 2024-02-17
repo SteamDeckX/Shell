@@ -1,2 +1,2 @@
-# Shell
-SteamDeckX Shell
+# SteamDeckX Shell
+SteamDeckX Shell application
